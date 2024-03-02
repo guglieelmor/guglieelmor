@@ -11,5 +11,7 @@ class SobreMim extends Desenvolvedor {
 }
 ```
 [guilhermeoliveira.net](https://www.guilhermeoliveira.net/)
+<br /> 
+<br /> 
 [![Linkedin Badge](https://img.shields.io/badge/-guglieelmor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guglieelmor/)](https://www.linkedin.com/in/guglieelmor/)
 [![GitHub](https://img.shields.io/github/followers/guglieelmor?label=follow&style=social)](https://www.linkedin.com/in/guglieelmor/)
